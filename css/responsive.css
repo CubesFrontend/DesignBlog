@@ -5,6 +5,10 @@
     
     
     
+    .news-navigation a,
+    .news-navigation > span{
+        font-size: 22px;
+    }
     
     
     
